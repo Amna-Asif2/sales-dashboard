@@ -69,5 +69,5 @@ The dashboard enables users to filter data dynamically and explore trends for be
 
 ## 📷 Dashboard 
 
-(dashboard.png)
+dashboard.png
 
