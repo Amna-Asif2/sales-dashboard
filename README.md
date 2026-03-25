@@ -1,7 +1,8 @@
 # 📊 Sales Dashboard
 
-An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze business performance using provided KPIs.  
-The dashboard transforms raw sales data into meaningful insights using charts, pivot tables, and slicers.
+This project is part of an assignment from **Hadi E-Learning**, focused on building an interactive **Sales Dashboard in Microsoft Excel** using provided KPIs.
+
+The dashboard converts raw sales data into meaningful insights using **Pivot Tables, Charts, and Slicers** to support data-driven decision making.
 
 ---
 
